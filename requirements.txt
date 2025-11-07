@@ -1,4 +1,3 @@
 pyspark==3.5.0
-toree
 
 jupyter-server-proxy
