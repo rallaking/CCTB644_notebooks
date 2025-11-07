@@ -1,4 +1,4 @@
-name: example-environment
+name: pyspark-env
 channels:
   - conda-forge
 dependencies:
