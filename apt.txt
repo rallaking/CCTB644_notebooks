@@ -1,2 +1,3 @@
+openjdk-8-jre-headless
 #Install the graphviz Linux package
 graphviz
